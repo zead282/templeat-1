@@ -1,0 +1,64 @@
+.one{
+width:100px;
+height:100px;
+background:rgb(187, 196, 188);
+
+
+}
+.two{
+width:50px;
+height:50px;
+margin:10px 100px 30px 50px;
+padding:40px;
+background:yellow;
+border:1px dotted red;
+outline:2px dotted yellow;
+
+
+}
+
+.text{
+
+text-align: center;
+letter-spacing: 5px;
+text-decoration: line-through;
+
+}
+h1{
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+}
+li{
+    text-align: center;
+list-style-position: inside;
+
+
+
+}
+table{
+
+    width:200px;
+    height:300px;
+    caption-side: bottom
+}
+td{
+
+
+    vertical-align: top;
+}
+span{
+
+    background-color: brown;
+    width: 100px;
+    height:100px;
+    margin:100px;
+
+    
+}
+* {
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
